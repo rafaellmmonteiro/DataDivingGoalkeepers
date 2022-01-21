@@ -1,7 +1,7 @@
 #DataDivingGoalkeepers
 
 #References:
-If you use this code or data we kindly as that you please cite: Monteior et al, 2021 and, .....\
+If you use this code or data we kindly as that you please cite: Monteior et al, 2021 and, ..... \
 
 ##Please check out the following references for more details:\
 @article{Monteiroal2021,
