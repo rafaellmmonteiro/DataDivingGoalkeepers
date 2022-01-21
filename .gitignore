@@ -1,5 +1,6 @@
 # Object file
-*.o
+*.avi
+*.mp4
+*.docx
 
-# Ada Library Information
-*.ali
+
