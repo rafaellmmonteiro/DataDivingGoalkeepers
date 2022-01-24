@@ -1,9 +1,9 @@
 # DataDivingGoalkeepers
 
 # Repository organization
-- The data folder contains all the 3 dimensional coordinates ('trial' files) and force exerted by the leg ipsilateral to the side of the diving save ('ptrial' files) separated by voluntaries. 
+- The data folder contains all the three-dimensional coordinates ('trial' files) and force exerted by the diving save ipsilateral leg ('ptrial' files) separated by voluntaries. 
 - The Figure folder contains all the figures used in the article.
-- The Src folder contains the codes used to process the diving kinematics data. To execute it, the code file should be in the same folder as the trial and ptrial archives.
+- The Src folder contains the codes used to process the diving kinematics data. To execute it, the code file should be in the same folder as the trial and ptrial archives. The output file will be a '.csv' with the processed variables separated according to their executed condition (rule and side of the jump).
 
 # References: 
 If you use this code or data we kindly as that you please cite: Monteior et al, 2021 and, ..... 
