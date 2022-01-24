@@ -17,4 +17,4 @@ If you use this code or data we kindly as that you please cite: Monteior et al, 
     url = {}}
 
 # Contact
-If you have any question, comments or sugestions, please email to rafaell_mmonteiro@usp.br.
+If you have any questions, comments or sugestions, please email to rafaell_mmonteiro@usp.br.
