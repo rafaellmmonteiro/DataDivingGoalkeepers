@@ -6,7 +6,7 @@
 - The Src folder contains the codes used to process the diving kinematics data. To execute it, the code file should be in the same folder as the trial and ptrial archives. The output file will be a '.csv' with the processed variables separated according to their executed condition (rule and side of the jump).
 
 # References: 
-https://doi.org/10.6084/m9.figshare.19059086.v1
+https://doi.org/10.6084/m9.figshare.19059086.v1\
 If you use this code or data we kindly as that you please cite: Monteior et al, 2021 and, ..... 
 
 ## Please check out the following references for more details: 
