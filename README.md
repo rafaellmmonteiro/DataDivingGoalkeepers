@@ -7,7 +7,7 @@
 
 # References: 
 https://doi.org/10.6084/m9.figshare.19059086.v1 \
-If you use this code or data we kindly as that you please cite: Monteior et al, 2021 and, ..... 
+If you use this code or data we kindly ask that you please cite: Monteiro et al, 2021 and, ..... 
 
 ## Please check out the following references for more details: 
 @article{Monteiroal2021,
